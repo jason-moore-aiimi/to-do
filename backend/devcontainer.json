@@ -7,5 +7,12 @@
 "remoteUser": "node",
 "features": {
 	"ghcr.io/devcontainers-contrib/features/express-generator:2": {}
+},
+"customizations": {
+	"vscode": {
+		"extensions": [
+			"rangav.vscode-thunder-client"
+		]
+	}
 }
 }
