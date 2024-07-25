@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+    margin: 0px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+.header {
+    background-color: #E7295D;
+    height: 20%;
+}
+
+.container {
+    display: flex;
+}
